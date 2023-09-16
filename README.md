@@ -1,1 +1,1 @@
-# miver-ws-server-optitrack
+# miver-glue-optitrack-py
